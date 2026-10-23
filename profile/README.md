@@ -112,7 +112,7 @@ empowering businesses with innovation, automation, and scalability.
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white">
 </a>
 
-<a href="https://linkedin.com/company/rdsgroup">
+<a href="https://linkedin.com/company/rdsgrouporg">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
 </a>
 
