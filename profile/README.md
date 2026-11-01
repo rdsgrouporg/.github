@@ -4,13 +4,13 @@
   <img src="assets/rds-ocean-header.svg" width="100%" alt="RDS Group - Technology and Enterprise Solutions" />
 </p>
 
-<h1 align="center">RDS GROUP</h1>
+<!-- <h1 align="center">RDS GROUP</h1>
 
 <h3 align="center">One-Stop Technology & Enterprise Solutions</h3>
 
 <p align="center">
   <strong>Innovate. Develop. Integrate. Scale.</strong>
-</p>
+</p> -->
 
 <p align="center">
   Building digital products, intelligent business systems, and scalable technology solutions for businesses worldwide.
